@@ -7,11 +7,7 @@ RUN java -Djarmode=layertools -jar application.jar extract
 
 
 # image to serve app
-FROM eclipse-temurin:17-jre-alpine
-
-# declare user with restricted privileges to run app
-RUN addgroup -S demo && adduser -S demo -G demo
-USER demo
+FROM eclipse-temurin:17-jre-alpin
 
 VOLUME /tmp
 WORKDIR application
