@@ -10,5 +10,5 @@ import java.util.List;
 public interface UserRepository extends JpaRepository<CustomUser, Long> {
 
     List<CustomUser> findByName(String name);
-
+    void deleteById(Long id);
 }
