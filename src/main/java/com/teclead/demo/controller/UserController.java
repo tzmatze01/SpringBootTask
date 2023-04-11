@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+
 @RestController
 @RequestMapping("user")
 public class UserController {
@@ -46,6 +47,6 @@ public class UserController {
 
     @PostMapping(value= "/", consumes = "application/json", produces = "application/json")
     public ResponseEntity<CustomUser> addUser(@RequestBody CustomUser user) {
-        return new ResponseEntity(userRepository.save(user), HttpStatus.OK);
+        return new ResponseEntity(userRepository.save(user), HttpStatus.CREATED);
     }
 }
