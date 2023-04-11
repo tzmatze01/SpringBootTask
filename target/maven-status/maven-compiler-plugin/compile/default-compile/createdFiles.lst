@@ -1,0 +1,4 @@
+com\teclead\demo\controllers\UserController.class
+com\teclead\demo\models\CustomUser.class
+com\teclead\demo\repositories\UserRepository.class
+com\teclead\demo\ProgrammingTaskApplication.class
