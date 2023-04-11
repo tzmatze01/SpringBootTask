@@ -1,4 +1,4 @@
-package com.teclead.demo.models;
+package com.teclead.demo.model;
 
 import jakarta.persistence.*;
 

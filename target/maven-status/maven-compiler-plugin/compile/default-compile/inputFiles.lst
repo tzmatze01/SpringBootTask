@@ -1,6 +1,7 @@
-C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\models\CustomUser.java
-C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\exceptions\CustomUserNotFoundAdvice.java
-C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\exceptions\CustomUserNotFoundException.java
-C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\controllers\UserController.java
+C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\exception\ErrorMessage.java
+C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\exception\CustomUserNotFoundException.java
+C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\exception\CustomUserNotFoundAdvice.java
+C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\controller\UserController.java
 C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\ProgrammingTaskApplication.java
-C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\repositories\UserRepository.java
+C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\model\CustomUser.java
+C:\Users\Matze\Documents\Programming\SpringBootTask\src\main\java\com\teclead\demo\repository\UserRepository.java

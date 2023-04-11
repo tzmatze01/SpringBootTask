@@ -1,6 +1,6 @@
-package com.teclead.demo.repositories;
+package com.teclead.demo.repository;
 
-import com.teclead.demo.models.CustomUser;
+import com.teclead.demo.model.CustomUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
