@@ -30,3 +30,7 @@ docker run -it -e "SPRING_PROFILES_ACTIVE=production" -p 9000:9000 demo:latest
 
 The app implements the following Endpoints. 
 
+
+
+Jakarta Servlet from 6.0.0 to 5.0.0 
+https://stackoverflow.com/questions/74946784/java-lang-classnotfoundexception-jakarta-servlet-http-httpsessioncontext-with-s
