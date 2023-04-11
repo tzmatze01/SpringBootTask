@@ -1,4 +1,6 @@
 com\teclead\demo\controllers\UserController.class
 com\teclead\demo\models\CustomUser.class
 com\teclead\demo\repositories\UserRepository.class
+exceptions\CustomUserNotFoundException.class
+exceptions\CustomUserNotFoundAdvice.class
 com\teclead\demo\ProgrammingTaskApplication.class

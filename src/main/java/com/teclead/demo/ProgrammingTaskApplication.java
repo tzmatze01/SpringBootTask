@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProgrammingTaskApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProgrammingTaskApplication.class, args);
+		//SpringApplication.run(ProgrammingTaskApplication.class, args);
+		SpringApplication app = new SpringApplication(ProgrammingTaskApplication.class);
+		app.setAdditionalProfiles("dev");
+		app.run(args);
 	}
 
 }
